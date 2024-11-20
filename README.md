@@ -105,6 +105,7 @@ Let's rename \*our-new-project\* to \*our-old-project\*.
 
 | Name     | Age | Occupation  |
 |----------|-----|-------------|
+| :---         |     :---:      |          ---: |
 | Alice    | 25  | Engineer    |
 | Bob      | 30  | Designer    |
 | Charlie  | 22  | Developer   |
