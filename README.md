@@ -1,12 +1,6 @@
-## my_demo
+# My_demo
 My first step towards git and github.
 Author-Lakshit 
-
-## Mathematical Expression
-
-# Vector Dot-Product Implementation
-
-This repository contains an implementation of the vector dot-product algorithm.
 
 ## Styling Text
  
@@ -86,9 +80,27 @@ A footnote can also have multiple lines[^2].
 [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
 This is a second line.
 
+## Alerts
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
 
 
+# Vector Dot-Product Implementation
 
+This repository contains an implementation of the vector dot-product algorithm.
 
 def dot_product(A, B):
     if len(A) != len(B):
