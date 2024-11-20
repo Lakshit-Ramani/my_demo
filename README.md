@@ -97,6 +97,18 @@ This is a second line.
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
+## Ignoring Markdown formatting
+
+Let's rename \*our-new-project\* to \*our-old-project\*.
+
+## Tables
+
+| Name     | Age | Occupation  |
+|----------|-----|-------------|
+| Alice    | 25  | Engineer    |
+| Bob      | 30  | Designer    |
+| Charlie  | 22  | Developer   |
+
 
 
 
