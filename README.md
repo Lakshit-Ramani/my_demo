@@ -40,6 +40,10 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 [Go to Mathematical Expression](#mathematical-expression)
 
 
+## images
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
 def dot_product(A, B):
     if len(A) != len(B):
         raise ValueError("Vectors must be of the same length.")
