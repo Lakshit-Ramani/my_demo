@@ -129,3 +129,11 @@ B = [4, 5, 6]
 result = dot_product(A, B)
 print("Dot product:", result)
 
+## Time complexities for dot product using various different methods..
+
+| Version   | Time Complexity | Space Complexity | Description                           |
+|-----------|-----------------|------------------|---------------------------------------|
+| Version 1 | O(n)            | O(1)             | Simple dot-product calculation        |
+| Version 2 | O(n log n)      | O(n)             | Optimized using dynamic programming  |
+| Version 3 | O(n)            | O(n)             | Parallelized version using numpy     |
+
