@@ -7,6 +7,8 @@ Author-Lakshit
 
 This repository contains an implementation of the vector dot-product algorithm.
 
+## Styling Text
+ 
 The **dot product** is also called the scalar product.
 
 The _dot product_ is also called the scalar product.
@@ -22,6 +24,13 @@ This is a <sub>subscript</sub> text
 This is a <sup>superscript</sup> text
 
 This is an <ins>underlined</ins> text
+
+## Quoting text
+
+Text that is not a quote
+
+> Text that is a quote
+
 
 
 def dot_product(A, B):
