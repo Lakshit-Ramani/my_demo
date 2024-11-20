@@ -8,9 +8,20 @@ Author-Lakshit
 This repository contains an implementation of the vector dot-product algorithm.
 
 The **dot product** is also called the scalar product.
+
 The _dot product_ is also called the scalar product.
+
 ~~This text was mistaken text.~~
+
 **This text is _extremely_ important**
+
+***All this text is important***
+
+This is a <sub>subscript</sub> text
+
+This is a <sup>superscript</sup> text
+
+This is an <ins>underlined</ins> text
 
 
 def dot_product(A, B):
