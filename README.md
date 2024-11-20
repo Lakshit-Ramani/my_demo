@@ -76,6 +76,15 @@ This PR looks great - it's ready to merge!
 :leg:
 :brain:
 
+## Footnotes
+
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+This is a second line.
 
 
 
