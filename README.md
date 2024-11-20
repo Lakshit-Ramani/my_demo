@@ -137,3 +137,6 @@ print("Dot product:", result)
 | Version 2 | O(n log n)      | O(n)             | Optimized using dynamic programming  |
 | Version 3 | O(n)            | O(n)             | Parallelized version using numpy     |
 
+
+<p>The dot product of two vectors <b>A</b> and <b>B</b> is Mathematically calculated as:</p>
+<p><b>A</b> &middot; <b>B</b> = <i>&sum;</i><sub>i=1</sub><sup>n</sup> <b>A<sub>i</sub></b> &middot; <b>B<sub>i</sub></b></p>
