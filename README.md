@@ -37,7 +37,7 @@ Text that is not a quote
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 
-[Go to Mathematical Expression](#mathematical-expression)
+:point_right:[Go to Mathematical Expression](#mathematical-expression)
 
 
 ## images
@@ -64,6 +64,21 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 - [x] Implement dot product function
 - [ ] Write unit tests
 - [ ] Document the code
+
+## Adding Emojis
+
+This PR looks great - it's ready to merge! 
+
+:smile:
+:laughing:
+:sweat_smile:
+:point_up_2:
+:leg:
+:brain:
+
+
+
+
 
 
 def dot_product(A, B):
