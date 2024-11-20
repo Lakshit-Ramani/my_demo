@@ -31,7 +31,9 @@ Text that is not a quote
 
 > Text that is a quote
 
+## Links
 
+This site was built using [GitHub Pages](https://pages.github.com/).
 
 def dot_product(A, B):
     if len(A) != len(B):
