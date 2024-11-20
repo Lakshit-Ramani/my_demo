@@ -98,12 +98,15 @@ This is a second line.
 > Advises about risks or negative outcomes of certain actions.
 
 
+
+
 # Vector Dot-Product Implementation
 
 This repository contains an implementation of the vector dot-product algorithm.
 
 def dot_product(A, B):
     if len(A) != len(B):
+    <!-- This content will not appear in the rendered Markdown -->
         raise ValueError("Vectors must be of the same length.")
     return sum(a * b for a, b in zip(A, B))
 
