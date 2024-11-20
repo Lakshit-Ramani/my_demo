@@ -2,6 +2,7 @@
 My first step towards git and github.
 Author-Lakshit 
 
+## Mathematical Expression
 
 # Vector Dot-Product Implementation
 
@@ -34,6 +35,10 @@ Text that is not a quote
 ## Links
 
 This site was built using [GitHub Pages](https://pages.github.com/).
+
+
+[Go to Mathematical Expression](#mathematical-expression)
+
 
 def dot_product(A, B):
     if len(A) != len(B):
